@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1468581734 source:f:\cpp source file 31116\projects\busticketing\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+
